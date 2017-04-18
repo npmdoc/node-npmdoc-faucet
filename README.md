@@ -1,9 +1,14 @@
-# api documentation for  [faucet (v0.0.1)](https://github.com/substack/faucet)  [![npm package](https://img.shields.io/npm/v/npmdoc-faucet.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-faucet) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-faucet.svg)](https://travis-ci.org/npmdoc/node-npmdoc-faucet)
+# npmdoc-faucet
+
+#### api documentation for  [faucet (v0.0.1)](https://github.com/substack/faucet)  [![npm package](https://img.shields.io/npm/v/npmdoc-faucet.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-faucet) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-faucet.svg)](https://travis-ci.org/npmdoc/node-npmdoc-faucet)
+
 #### human-readable TAP summarizer
 
-[![NPM](https://nodei.co/npm/faucet.png?downloads=true)](https://www.npmjs.com/package/faucet)
+[![NPM](https://nodei.co/npm/faucet.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/faucet)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-faucet/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-faucet_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-faucet/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-faucet/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-faucet/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-faucet/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-faucet/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-faucet/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "James Halliday",
-        "email": "mail@substack.net",
         "url": "http://substack.net"
     },
     "bin": {
@@ -56,13 +60,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "substack",
-            "email": "mail@substack.net"
+            "name": "substack"
         }
     ],
     "name": "faucet",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/substack/faucet.git"
@@ -70,16 +72,6 @@
     "version": "0.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module faucet](#apidoc.module.faucet)
-
-
-
-# <a name="apidoc.module.faucet"></a>[module faucet](#apidoc.module.faucet)
 
 
 
