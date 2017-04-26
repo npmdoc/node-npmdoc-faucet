@@ -1,6 +1,6 @@
 # npmdoc-faucet
 
-#### api documentation for  [faucet (v0.0.1)](https://github.com/substack/faucet)  [![npm package](https://img.shields.io/npm/v/npmdoc-faucet.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-faucet) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-faucet.svg)](https://travis-ci.org/npmdoc/node-npmdoc-faucet)
+#### basic api documentation for  [faucet (v0.0.1)](https://github.com/substack/faucet)  [![npm package](https://img.shields.io/npm/v/npmdoc-faucet.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-faucet) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-faucet.svg)](https://travis-ci.org/npmdoc/node-npmdoc-faucet)
 
 #### human-readable TAP summarizer
 
